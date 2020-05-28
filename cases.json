@@ -1,0 +1,64 @@
+{
+  "date": "25-Mai-2020",
+  "data": [
+    {
+      "name": "Brazzaville",
+      "cities": [
+        {
+          "name": "",
+          "count": 0,
+          "recovered": 0
+        }
+      ],
+      "count": 308,
+      "recovered": 109,
+      "deaths": 8,
+      "latest": 17
+    },
+    {
+      "name": "Pointe-Noire",
+      "count": 210,
+      "recovered": 41,
+      "deaths": 9,
+      "latest": 17,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Pool",
+      "count": 5,
+      "recovered": 2,
+      "deaths": 0,
+      "latest": 0,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Cuvette",
+      "count": 1,
+      "recovered": 1,
+      "deaths": 0,
+      "latest": 0,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Kouilou",
+      "count": 6,
+      "recovered": 2,
+      "deaths": 0,
+      "latest": 0,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Sangha",
+      "count": 1,
+      "recovered": 0,
+      "deaths": 0,
+      "latest": 0,
+      "cities": [
+      ]
+    }
+  ]
+}
