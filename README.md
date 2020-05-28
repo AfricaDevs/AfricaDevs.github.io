@@ -25,6 +25,7 @@
 
 # PROJECT -> [Covid-19 stats of The Rep. of Congo](https://github.com/AfricaDevs/AfricaDevs.github.io/blob/master/congo-covid19-cases.json)
 :uk: **Informations parsed from the government official statements and presented in a JSON format to ease the work of Developers**
+
 :fr: **Informations analysées à partir des déclarations officielles du gouvernement et présentées au format JSON pour faciliter le travail des développeurs**
 
 ### The following APPS use this resource
