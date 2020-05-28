@@ -1,4 +1,4 @@
-# PROJET -> [APP-SANTE-AFRIQUE-VS-COVID19-TOA](https://github.com/AfricaDevs/APP-SANTE-AFRIQUE-VS-COVID19-TOA)
+# PROJECT -> [APP-SANTE-AFRIQUE-VS-COVID19-TOA](https://github.com/AfricaDevs/APP-SANTE-AFRIQUE-VS-COVID19-TOA)
 
 **Chercheurs, médecins, scientifiques et designers ont créé cette application rien que pour TOÂ « toi » pour promouvoir les bonnes pratiques pour faire face à la pandémie de Covid-19 en Afrique.**
 
@@ -23,8 +23,9 @@
 :email: [collectif.toa@gmail.com](mailto:collectif.toa@gmail.com)
 
 
-# PROJET -> [Covid-19 stats of The Rep. of Congo](https://github.com/AfricaDevs/AfricaDevs.github.io/blob/master/congo-covid19-cases.json)
-**Informations parsed from the government official statements and presented in a JSON format to ease the work of Developers**
+# PROJECT -> [Covid-19 stats of The Rep. of Congo](https://github.com/AfricaDevs/AfricaDevs.github.io/blob/master/congo-covid19-cases.json)
+:uk: **Informations parsed from the government official statements and presented in a JSON format to ease the work of Developers**
+:fr: **Informations analysées à partir des déclarations officielles du gouvernement et présentées au format JSON pour faciliter le travail des développeurs**
 
 ### The following APPS use this resource
 - [***Congo Zoom*** - on Google Play Store](https://play.google.com/store/apps/details?id=cg.stevendende.congo)
