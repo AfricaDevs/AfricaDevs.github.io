@@ -5,22 +5,111 @@
       "name": "Brazzaville",
       "cities": [
         {
-          "name": "",
-          "count": 0,
-          "recovered": 0
+          "name": "Bacongo",
+          "count": 12,
+          "recovered": 3,
+          "deaths": 1,
+          "latest": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Djiri",
+          "count": 39,
+          "recovered": 18,
+          "deaths": 1,
+          "latest": 1,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Madibou",
+          "count": 13,
+          "recovered": 2,
+          "deaths": 1,
+          "latest": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Makélékélé",
+          "count": 33,
+          "recovered": 19,
+          "deaths": 0,
+          "latest": 2,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Mfilou",
+          "count": 16,
+          "recovered": 4,
+          "deaths": 0,
+          "latest": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Moungali",
+          "count": 53,
+          "recovered": 14,
+          "deaths": 0,
+          "latest": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Ouenze",
+          "count": 51,
+          "recovered": 16,
+          "deaths": 2,
+          "latest": 1,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Poto-Poto",
+          "count": 37,
+          "recovered": 10,
+          "deaths": 1,
+          "latest": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Talangai",
+          "count": 59,
+          "recovered": 23,
+          "deaths": 2,
+          "latest": 1,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
         }
       ],
-      "count": 308,
+      "count": 313,
       "recovered": 109,
       "deaths": 8,
-      "latest": 17
+      "latest": 5,
+      "latestRecovered": 0,
+      "latestDeaths": 0
     },
     {
       "name": "Pointe-Noire",
-      "count": 210,
-      "recovered": 41,
-      "deaths": 9,
-      "latest": 17,
+      "count": 242,
+      "recovered": 47,
+      "deaths": 10,
+      "latest": 32,
+      "latestRecovered": 6,
+      "latestDeaths": 1,
       "cities": [
       ]
     },
@@ -30,6 +119,19 @@
       "recovered": 2,
       "deaths": 0,
       "latest": 0,
+      "latestRecovered": 0,
+      "latestDeaths": 0,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Bouenza",
+      "count": 1,
+      "recovered": 1,
+      "deaths": 1,
+      "latest": 1,
+      "latestRecovered": 0,
+      "latestDeaths": 1,
       "cities": [
       ]
     },
@@ -39,6 +141,8 @@
       "recovered": 1,
       "deaths": 0,
       "latest": 0,
+      "latestRecovered": 0,
+      "latestDeaths": 0,
       "cities": [
       ]
     },
@@ -48,6 +152,8 @@
       "recovered": 2,
       "deaths": 0,
       "latest": 0,
+      "latestRecovered": 0,
+      "latestDeaths": 0,
       "cities": [
       ]
     },
@@ -57,6 +163,8 @@
       "recovered": 0,
       "deaths": 0,
       "latest": 0,
+      "latestRecovered": 0,
+      "latestDeaths": 0,
       "cities": [
       ]
     }
