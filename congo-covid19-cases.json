@@ -1,5 +1,5 @@
 {
-  "date": "27-Mai-2020",
+  "date": "28-Mai-2020",
   "pdf":"blob:https://gouvernement.cg/f751c882-07e6-904f-add7-df80188fb636",
   "data": [
     {
@@ -20,7 +20,7 @@
           "count": 39,
           "recovered": 18,
           "deaths": 1,
-          "latest": 1,
+          "latest": 0,
           "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
@@ -40,7 +40,7 @@
           "count": 33,
           "recovered": 19,
           "deaths": 0,
-          "latest": 2,
+          "latest": 0,
           "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
@@ -67,7 +67,7 @@
         },
         {
           "name": "Ouenze",
-          "count": 51,
+          "count": 52,
           "recovered": 16,
           "deaths": 2,
           "latest": 1,
@@ -77,41 +77,111 @@
         },
         {
           "name": "Poto-Poto",
-          "count": 37,
+          "count": 39,
           "recovered": 10,
           "deaths": 1,
-          "latest": 0,
+          "latest": 1,
           "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Talangai",
-          "count": 59,
-          "recovered": 23,
+          "count": 60,
+          "recovered": 25,
           "deaths": 2,
-          "latest": 1,
-          "latestRecovered": 0,
+          "latest": 0,
+          "latestRecovered": 2,
           "latestDeaths": 0,
           "cities": []
         }
       ],
-      "count": 313,
-      "recovered": 109,
+      "count": 317,
+      "recovered": 111,
       "deaths": 8,
-      "latest": 5,
-      "latestRecovered": 0,
+      "latest": 2,
+      "latestRecovered": 2,
       "latestDeaths": 0
     },
     {
       "name": "Pointe-Noire",
-      "count": 242,
-      "recovered": 47,
+      "count": 252,
+      "recovered": 54,
       "deaths": 10,
-      "latest": 32,
-      "latestRecovered": 6,
-      "latestDeaths": 1,
+      "latest": 10,
+      "latestRecovered": 7,
+      "latestDeaths": 0,
       "cities": [
+        {
+          "name": "Loandjili",
+          "count": 45,
+          "recovered": 4,
+          "deaths": 3,
+          "latest": 0,
+          "latestRecovered": 1,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Lumumba",
+          "count": 61,
+          "recovered": 15,
+          "deaths": 4,
+          "latest": 2,
+          "latestRecovered": 1,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Mongo-Mpoukou",
+          "count": 57,
+          "recovered": 19,
+          "deaths":2,
+          "latest": 5,
+          "latestRecovered":2,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Mvoumvou",
+          "count": 10,
+          "recovered": 3,
+          "deaths":0,
+          "latest": 1,
+          "latestRecovered":0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Tie-Tie",
+          "count": 22,
+          "recovered": 4,
+          "deaths":1,
+          "latest": 1,
+          "latestRecovered":0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Ngoyo",
+          "count": 34,
+          "recovered": 9,
+          "deaths":0,
+          "latest": 0,
+          "latestRecovered":3,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Ngoyo",
+          "count": 23,
+          "recovered": 0,
+          "deaths":0,
+          "latest": 1,
+          "latestRecovered":0,
+          "latestDeaths": 0,
+          "cities": []
+        }
       ]
     },
     {
@@ -128,11 +198,11 @@
     {
       "name": "Bouenza",
       "count": 1,
-      "recovered": 1,
+      "recovered": 0,
       "deaths": 1,
-      "latest": 1,
+      "latest": 0,
       "latestRecovered": 0,
-      "latestDeaths": 1,
+      "latestDeaths": 0,
       "cities": [
       ]
     },
