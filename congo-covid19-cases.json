@@ -212,6 +212,16 @@
           "latestRecovered":0,
           "latestDeaths": 0,
           "cities": []
+        },
+        {
+          "name": " ",
+          "count": 0,
+          "recovered": 0,
+          "deaths":0,
+          "latest": 0,
+          "latestRecovered":0,
+          "latestDeaths": 0,
+          "cities": []
         }
       ]
     },
