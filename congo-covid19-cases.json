@@ -1,5 +1,5 @@
 {
-  "date": "30-Mai-2020",
+  "date": "31-Mai-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
   "data": [
     {
@@ -96,17 +96,17 @@
           "cities": []
         }
       ],
-      "count": 326,
-      "recovered": 111,
+      "count": 327,
+      "recovered": 115,
       "deaths": 8,
-      "latest": 5,
+      "latest": 1,
       "latestRecovered": 2,
       "latestDeaths": 0
     },
     {
       "name": "Pointe-Noire",
-      "count": 264,
-      "recovered": 57,
+      "count": 268,
+      "recovered": 59,
       "deaths": 11,
       "latest": 12,
       "latestRecovered": 3,
@@ -227,10 +227,10 @@
     },
     {
       "name": "Bouenza",
-      "count": 1,
+      "count": 3,
       "recovered": 0,
       "deaths": 1,
-      "latest": 0,
+      "latest": 2,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
