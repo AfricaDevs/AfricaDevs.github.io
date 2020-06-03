@@ -100,7 +100,7 @@
       "recovered": 110,
       "deaths": 8,
       "latest": 3,
-      "latestRecovered": 4,
+      "latestRecovered": 0,
       "latestDeaths": 0
     },
     {
@@ -109,7 +109,7 @@
       "recovered": 64,
       "deaths": 11,
       "latest": 10,
-      "latestRecovered": 2,
+      "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
         {
@@ -128,7 +128,7 @@
           "recovered": 17,
           "deaths": 4,
           "latest": 6,
-          "latestRecovered": 2,
+          "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
@@ -138,7 +138,7 @@
           "recovered": 21,
           "deaths":2,
           "latest":1,
-          "latestRecovered":1,
+          "latestRecovered":0,
           "latestDeaths": 0,
           "cities": []
         },
