@@ -100,7 +100,7 @@
       "recovered": 115,
       "deaths": 8,
       "latest": 1,
-      "latestRecovered": 2,
+      "latestRecovered": 4,
       "latestDeaths": 0
     },
     {
@@ -108,9 +108,9 @@
       "count": 268,
       "recovered": 59,
       "deaths": 11,
-      "latest": 12,
-      "latestRecovered": 3,
-      "latestDeaths": 1,
+      "latest": 4,
+      "latestRecovered": 2,
+      "latestDeaths": 0,
       "cities": [
         {
           "name": "Loandjili",
