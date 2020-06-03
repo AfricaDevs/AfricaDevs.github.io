@@ -1,5 +1,5 @@
 {
-  "date": "31-Mai-2020",
+  "date": "02-Juin-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
   "data": [
     {
@@ -17,10 +17,10 @@
         },
         {
           "name": "Djiri",
-          "count": 41,
+          "count": 45,
           "recovered": 18,
           "deaths": 1,
-          "latest": 2,
+          "latest": 1,
           "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
@@ -40,14 +40,14 @@
           "count": 34,
           "recovered": 19,
           "deaths": 0,
-          "latest": 1,
+          "latest": 0,
           "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Mfilou",
-          "count": 17,
+          "count": 19,
           "recovered": 4,
           "deaths": 0,
           "latest": 0,
@@ -57,7 +57,7 @@
         },
         {
           "name": "Moungali",
-          "count": 54,
+          "count": 55,
           "recovered": 14,
           "deaths": 0,
           "latest": 1,
@@ -67,7 +67,7 @@
         },
         {
           "name": "Ouenze",
-          "count": 53,
+          "count": 56,
           "recovered": 16,
           "deaths": 2,
           "latest": 1,
@@ -77,17 +77,17 @@
         },
         {
           "name": "Poto-Poto",
-          "count": 41,
-          "recovered": 10,
+          "count": 43,
+          "recovered": 9,
           "deaths": 1,
-          "latest": 1,
+          "latest": 0,
           "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Talangai",
-          "count": 61,
+          "count": 64,
           "recovered": 25,
           "deaths": 2,
           "latest": 0,
@@ -96,8 +96,8 @@
           "cities": []
         }
       ],
-      "count": 327,
-      "recovered": 115,
+      "count": 341,
+      "recovered": 110,
       "deaths": 8,
       "latest": 1,
       "latestRecovered": 4,
@@ -105,8 +105,8 @@
     },
     {
       "name": "Pointe-Noire",
-      "count": 268,
-      "recovered": 59,
+      "count": 274,
+      "recovered": 64,
       "deaths": 11,
       "latest": 4,
       "latestRecovered": 2,
@@ -114,30 +114,30 @@
       "cities": [
         {
           "name": "Loandjili",
-          "count": 48,
-          "recovered": 4,
+          "count": 49,
+          "recovered": 6,
           "deaths": 3,
-          "latest": 3,
+          "latest": 1,
           "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Lumumba",
-          "count": 64,
+          "count": 70,
           "recovered": 17,
           "deaths": 4,
-          "latest": 3,
+          "latest": 6,
           "latestRecovered": 2,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Mongo-Mpoukou",
-          "count": 60,
-          "recovered": 20,
+          "count": 61,
+          "recovered": 21,
           "deaths":2,
-          "latest":3,
+          "latest":1,
           "latestRecovered":1,
           "latestDeaths": 0,
           "cities": []
@@ -154,18 +154,18 @@
         },
         {
           "name": "Tie-Tie",
-          "count": 24,
-          "recovered": 4,
+          "count": 25,
+          "recovered": 7,
           "deaths":1,
-          "latest": 2,
+          "latest": 1,
           "latestRecovered":0,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Ngoyo",
-          "count": 35,
-          "recovered": 9,
+          "count": 36,
+          "recovered": 10,
           "deaths":0,
           "latest": 1,
           "latestRecovered":0,
@@ -194,7 +194,7 @@
       "latestDeaths": 0,
       "cities": [
       	{
-          "name": "Ignie-Ngabé",
+          "name": "Ignié-Ngabé",
           "count": 2,
           "recovered": 2,
           "deaths":0,
@@ -204,7 +204,7 @@
           "cities": []
         },
         {
-          "name": "Kintele",
+          "name": "Kintélé",
           "count": 3,
           "recovered": 0,
           "deaths":0,
@@ -227,10 +227,10 @@
     },
     {
       "name": "Bouenza",
-      "count": 3,
+      "count": 4,
       "recovered": 0,
       "deaths": 1,
-      "latest": 2,
+      "latest": 1,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
