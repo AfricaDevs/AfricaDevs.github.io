@@ -99,7 +99,7 @@
       "count": 341,
       "recovered": 110,
       "deaths": 8,
-      "latest": 1,
+      "latest": 3,
       "latestRecovered": 4,
       "latestDeaths": 0
     },
@@ -108,7 +108,7 @@
       "count": 274,
       "recovered": 64,
       "deaths": 11,
-      "latest": 4,
+      "latest": 10,
       "latestRecovered": 2,
       "latestDeaths": 0,
       "cities": [
