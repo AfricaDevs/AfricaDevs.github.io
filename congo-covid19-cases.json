@@ -1,24 +1,15 @@
 {
-  "date": "06-Juin-2020",
+  "date": "09-Juin-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
+  "latest_cases":"48h",
   "data": [
     {
       "name": "Brazzaville",
       "cities": [
         {
           "name": "Bacongo",
-          "count": 17,
-          "recovered": 4,
-          "deaths": 1,
-          "latest": 1,
-          "latestRecovered": 1,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Djiri",
-          "count": 46,
-          "recovered": 20,
+          "count": 18,
+          "recovered": 6,
           "deaths": 1,
           "latest": 1,
           "latestRecovered": 2,
@@ -26,12 +17,22 @@
           "cities": []
         },
         {
+          "name": "Djiri",
+          "count":58,
+          "recovered": 20,
+          "deaths": 0,
+          "latest": 12,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
           "name": "Madibou",
           "count": 15,
-          "recovered": 3,
+          "recovered": 7,
           "deaths": 1,
           "latest": 0,
-          "latestRecovered": 1,
+          "latestRecovered": 4,
           "latestDeaths": 0,
           "cities": []
         },
@@ -51,65 +52,65 @@
           "recovered": 8,
           "deaths": 0,
           "latest": 0,
-          "latestRecovered": 4,
+          "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Moungali",
-          "count": 58,
+          "count": 62,
           "recovered": 19,
           "deaths": 0,
-          "latest": 0,
-          "latestRecovered": 5,
+          "latest": 4,
+          "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Ouenze",
-          "count": 58,
-          "recovered": 18,
+          "count": 59,
+          "recovered": 20,
           "deaths": 2,
           "latest": 1,
-          "latestRecovered": 1,
+          "latestRecovered": 2,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Poto-Poto",
-          "count": 46,
+          "count": 49,
           "recovered": 15,
           "deaths": 1,
-          "latest": 0,
-          "latestRecovered": 5,
+          "latest": 3,
+          "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
         {
           "name": "Talangai",
-          "count": 69,
-          "recovered": 27,
+          "count": 73,
+          "recovered": 29,
           "deaths": 2,
-          "latest": 1,
-          "latestRecovered": 1,
+          "latest": 4,
+          "latestRecovered": 2,
           "latestDeaths": 0,
           "cities": []
         }
       ],
-      "count": 364,
-      "recovered": 135,
+      "count": 389,
+      "recovered": 145,
       "deaths": 8,
-      "latest": 5,
-      "latestRecovered": 22,
+      "latest": 25,
+      "latestRecovered": 10,
       "latestDeaths": 0
     },
     {
       "name": "Pointe-Noire",
-      "count": 299,
+      "count": 309,
       "recovered": 67,
-      "deaths": 13,
-      "latest": 25,
-      "latestRecovered": 2,
+      "deaths": 15,
+      "latest": 10,
+      "latestRecovered": 0,
       "latestDeaths": 2,
       "cities": [
         {
@@ -128,7 +129,7 @@
           "recovered": 19,
           "deaths": 5,
           "latest": 5,
-          "latestRecovered": 1,
+          "latestRecovered": 0,
           "latestDeaths": 2,
           "cities": []
         },
@@ -136,10 +137,10 @@
           "name": "Mongo-Mpoukou",
           "count": 69,
           "recovered": 21,
-          "deaths":4,
+          "deaths":5,
           "latest":8,
           "latestRecovered":0,
-          "latestDeaths": 0,
+          "latestDeaths": 1,
           "cities": []
         },
         {
@@ -166,18 +167,18 @@
           "name": "Ngoyo",
           "count": 40,
           "recovered": 11,
-          "deaths":0,
+          "deaths":1,
           "latest": 4,
-          "latestRecovered":1,
-          "latestDeaths": 0,
+          "latestRecovered":0,
+          "latestDeaths": 1,
           "cities": []
         },
         {
           "name": "Tchiamba Nzassi",
-          "count": 23,
+          "count": 33,
           "recovered": 0,
           "deaths":0,
-          "latest": 0,
+          "latest": 10,
           "latestRecovered":0,
           "latestDeaths": 0,
           "cities": []
