@@ -42,7 +42,7 @@
           "recovered": 21,
           "deaths": 0,
           "latest": 0,
-          "latestRecovered": 2,
+          "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
@@ -254,7 +254,7 @@
       "recovered": 5,
       "deaths": 0,
       "latest": 0,
-      "latestRecovered": 3,
+      "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
       ]
