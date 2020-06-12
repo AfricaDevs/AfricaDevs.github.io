@@ -11,8 +11,8 @@
           "count": 18,
           "recovered": 6,
           "deaths": 1,
-          "latest": 1,
-          "latestRecovered": 2,
+          "latest": 0,
+          "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
@@ -21,7 +21,7 @@
           "count":58,
           "recovered": 20,
           "deaths": 0,
-          "latest": 12,
+          "latest": 0,
           "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
@@ -32,7 +32,7 @@
           "recovered": 7,
           "deaths": 1,
           "latest": 0,
-          "latestRecovered": 4,
+          "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         },
@@ -61,7 +61,7 @@
           "count": 62,
           "recovered": 19,
           "deaths": 0,
-          "latest": 4,
+          "latest": 3,
           "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
@@ -70,19 +70,19 @@
           "name": "Ouenze",
           "count": 59,
           "recovered": 20,
-          "deaths": 2,
+          "deaths": 3,
           "latest": 1,
-          "latestRecovered": 2,
-          "latestDeaths": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 1,
           "cities": []
         },
         {
           "name": "Poto-Poto",
           "count": 49,
-          "recovered": 15,
+          "recovered": 16,
           "deaths": 1,
-          "latest": 3,
-          "latestRecovered": 0,
+          "latest": 1,
+          "latestRecovered": 1,
           "latestDeaths": 0,
           "cities": []
         },
@@ -91,27 +91,27 @@
           "count": 73,
           "recovered": 29,
           "deaths": 2,
-          "latest": 4,
-          "latestRecovered": 2,
+          "latest": 5,
+          "latestRecovered": 0,
           "latestDeaths": 0,
           "cities": []
         }
       ],
-      "count": 389,
-      "recovered": 145,
-      "deaths": 8,
-      "latest": 25,
-      "latestRecovered": 10,
-      "latestDeaths": 0
+      "count": 399,
+      "recovered": 146,
+      "deaths": 9,
+      "latest": 10,
+      "latestRecovered": 1,
+      "latestDeaths": 1
     },
     {
       "name": "Pointe-Noire",
-      "count": 309,
-      "recovered": 67,
+      "count": 323,
+      "recovered": 74,
       "deaths": 15,
-      "latest": 10,
-      "latestRecovered": 0,
-      "latestDeaths": 2,
+      "latest": 14,
+      "latestRecovered": 7,
+      "latestDeaths": 0,
       "cities": [
         {
           "name": "Loandjili",
@@ -228,7 +228,7 @@
     },
     {
       "name": "Bouenza",
-      "count": 7,
+      "count": 8,
       "recovered": 0,
       "deaths": 1,
       "latest": 0,
@@ -250,10 +250,10 @@
     },
     {
       "name": "Kouilou",
-      "count": 6,
+      "count": 7,
       "recovered": 5,
       "deaths": 0,
-      "latest": 0,
+      "latest": 1,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -262,13 +262,13 @@
     {
       "name": "Sangha",
       "count": 1,
-      "recovered": 0,
+      "recovered": 1,
       "deaths": 0,
       "latest": 0,
-      "latestRecovered": 0,
+      "latestRecovered": 1,
       "latestDeaths": 0,
       "cities": [
       ]
-    }
+    } 
   ]
 }
