@@ -1,5 +1,5 @@
 {
-  "date": "09-Juin-2020",
+  "date": "15-Juin-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
   "latest_cases":"48h",
   "data": [
@@ -260,15 +260,15 @@
       ]
     },
     {
-      "name": "Sangha",
+      "name": "Lékoumou",
       "count": 1,
-      "recovered": 1,
+      "recovered": 0,
       "deaths": 0,
       "latest": 0,
-      "latestRecovered": 1,
+      "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
       ]
-    } 
+    }
   ]
 }
