@@ -106,7 +106,7 @@
     },
     {
       "name": "Pointe-Noire",
-      "count": 353,
+      "count": 352,
       "recovered": 104,
       "deaths": 15,
       "latest": 7,
@@ -272,7 +272,7 @@
     },
     {
       "name": "Cas non répartis",
-      "count": 0,
+      "count": 1,
       "recovered": 130,
       "deaths": 2,
       "latest": 103,
