@@ -269,6 +269,17 @@
       "latestDeaths": 0,
       "cities": [
       ]
-    }
+    },
+    {
+      "name": "Cas non répartis",
+      "count": 0,
+      "recovered": 130,
+      "deaths": 2,
+      "latest": 103,
+      "latestRecovered": 130,
+      "latestDeaths": 2,
+      "cities": [
+      ]
+    }  
   ]
 }
