@@ -1,5 +1,5 @@
 {
-  "date": "19-Juin-2020",
+  "date": "22-Juin-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
   "latest_cases":"48h",
   "data": [
@@ -97,19 +97,19 @@
           "cities": []
         }
       ],
-      "count": 507,
+      "count": 639,
       "recovered": 148,
       "deaths": 9,
-      "latest": 27,
+      "latest": 132,
       "latestRecovered": 2,
       "latestDeaths": 0
     },
     {
       "name": "Pointe-Noire",
-      "count": 353,
+      "count": 415,
       "recovered": 104,
       "deaths": 15,
-      "latest": 7,
+      "latest": 62,
       "latestRecovered": 30,
       "latestDeaths": 0,
       "cities": [
@@ -239,10 +239,10 @@
     },
     {
       "name": "Cuvette",
-      "count": 1,
+      "count": 3,
       "recovered": 1,
       "deaths": 0,
-      "latest": 0,
+      "latest": 2,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -250,10 +250,10 @@
     },
     {
       "name": "Kouilou",
-      "count": 7,
+      "count": 12,
       "recovered": 5,
       "deaths": 0,
-      "latest": 1,
+      "latest": 5,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -272,10 +272,10 @@
     },
     {
       "name": "Non répertoriés",
-      "count": 131,
+      "count": 4,
       "recovered": 196,
-      "deaths": 3,
-      "latest": 130,
+      "deaths": 12,
+      "latest": 0,
       "latestRecovered": 65,
       "latestDeaths": 1,
       "cities": [
