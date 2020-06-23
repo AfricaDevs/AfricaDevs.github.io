@@ -98,7 +98,7 @@
         }
       ],
       "count": 639,
-      "recovered": 148,
+      "recovered": 270,
       "deaths": 9,
       "latest": 132,
       "latestRecovered": 2,
@@ -107,7 +107,7 @@
     {
       "name": "Pointe-Noire",
       "count": 415,
-      "recovered": 104,
+      "recovered": 173,
       "deaths": 15,
       "latest": 62,
       "latestRecovered": 30,
@@ -188,7 +188,7 @@
     {
       "name": "Pool",
       "count": 5,
-      "recovered": 2,
+      "recovered": 5,
       "deaths": 0,
       "latest": 0,
       "latestRecovered": 0,
@@ -251,17 +251,28 @@
     {
       "name": "Kouilou",
       "count": 12,
-      "recovered": 5,
+      "recovered": 6,
       "deaths": 0,
-      "latest": 5,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
       ]
     },
     {
-      "name": "Lékoumou",
+      "name": "Sangha",
       "count": 1,
+      "recovered": 1,
+      "deaths": 0,
+      "latest": 0,
+      "latestRecovered": 0,
+      "latestDeaths": 0,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Cuvette-Ouest",
+      "count": 3,
       "recovered": 0,
       "deaths": 0,
       "latest": 0,
@@ -269,17 +280,6 @@
       "latestDeaths": 0,
       "cities": [
       ]
-    },
-    {
-      "name": "Non répertoriés",
-      "count": 4,
-      "recovered": 196,
-      "deaths": 12,
-      "latest": 0,
-      "latestRecovered": 65,
-      "latestDeaths": 1,
-      "cities": [
-      ]
-    }  
+    }
   ]
 }
