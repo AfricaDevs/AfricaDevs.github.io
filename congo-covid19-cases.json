@@ -1,5 +1,5 @@
 {
-  "date": "22-Juin-2020",
+  "date": "24-Juin-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
   "latest_cases":"48h",
   "data": [
@@ -274,6 +274,17 @@
       "name": "Cuvette-Ouest",
       "count": 3,
       "recovered": 0,
+      "deaths": 0,
+      "latest": 0,
+      "latestRecovered": 0,
+      "latestDeaths": 0,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Non localisés",
+      "count": 55,
+      "recovered": 8,
       "deaths": 0,
       "latest": 0,
       "latestRecovered": 0,
