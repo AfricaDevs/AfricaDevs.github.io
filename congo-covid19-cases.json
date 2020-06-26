@@ -5,185 +5,23 @@
   "data": [
     {
       "name": "Brazzaville",
-      "cities": [
-        {
-          "name": "Bacongo",
-          "count": 20,
-          "recovered": 6,
-          "deaths": 1,
-          "latest": 2,
-          "latestRecovered": 0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Djiri",
-          "count":57,
-          "recovered": 20,
-          "deaths": 0,
-          "latest": 0,
-          "latestRecovered": 0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Madibou",
-          "count": 15,
-          "recovered": 7,
-          "deaths": 1,
-          "latest": 0,
-          "latestRecovered": 0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Makélékélé",
-          "count": 37,
-          "recovered": 21,
-          "deaths": 0,
-          "latest": 1,
-          "latestRecovered": 0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Mfilou",
-          "count": 19,
-          "recovered": 8,
-          "deaths": 0,
-          "latest": 0,
-          "latestRecovered": 0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Moungali",
-          "count": 68,
-          "recovered": 19,
-          "deaths": 0,
-          "latest": 3,
-          "latestRecovered": 0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Ouenze",
-          "count": 65,
-          "recovered": 21,
-          "deaths": 3,
-          "latest": 1,
-          "latestRecovered": 1,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Poto-Poto",
-          "count": 58,
-          "recovered": 16,
-          "deaths": 1,
-          "latest": 8,
-          "latestRecovered": 0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Talangai",
-          "count": 87,
-          "recovered": 30,
-          "deaths": 2,
-          "latest": 9,
-          "latestRecovered": 1,
-          "latestDeaths": 0,
-          "cities": []
-        }
-      ],
-      "count": 639,
-      "recovered": 270,
-      "deaths": 9,
-      "latest": 132,
-      "latestRecovered": 2,
-      "latestDeaths": 0
+      "cities": [],
+      "count": 722,
+      "recovered": 278,
+      "deaths": 18,
+      "latest": 29,
+      "latestRecovered": 1,
+      "latestDeaths": 1
     },
     {
       "name": "Pointe-Noire",
-      "count": 415,
-      "recovered": 173,
-      "deaths": 15,
-      "latest": 62,
-      "latestRecovered": 30,
+      "count": 447,
+      "recovered": 178,
+      "deaths": 19,
+      "latest": 32,
+      "latestRecovered": 4,
       "latestDeaths": 0,
-      "cities": [
-        {
-          "name": "Loandjili",
-          "count": 57,
-          "recovered": 18,
-          "deaths": 3,
-          "latest": 0,
-          "latestRecovered": 11,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Lumumba",
-          "count": 82,
-          "recovered": 26,
-          "deaths": 5,
-          "latest": 1,
-          "latestRecovered": 5,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Mongo-Mpoukou",
-          "count": 72,
-          "recovered": 25,
-          "deaths":5,
-          "latest":1,
-          "latestRecovered":3,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Mvoumvou",
-          "count": 12,
-          "recovered": 5,
-          "deaths":0,
-          "latest": 1,
-          "latestRecovered":0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Tie-Tie",
-          "count": 30,
-          "recovered": 8,
-          "deaths":1,
-          "latest": 2,
-          "latestRecovered":1,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Ngoyo",
-          "count": 43,
-          "recovered": 16,
-          "deaths": 1,
-          "latest": 2,
-          "latestRecovered": 4,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Tchiamba Nzassi",
-          "count": 33,
-          "recovered": 6,
-          "deaths":0,
-          "latest": 10,
-          "latestRecovered":6,
-          "latestDeaths": 0,
-          "cities": []
-        }
-      ]
+      "cities": []
     },
     {
       "name": "Pool",
@@ -193,38 +31,7 @@
       "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
-      "cities": [
-      	{
-          "name": "Ignié-Ngabé",
-          "count": 2,
-          "recovered": 2,
-          "deaths":0,
-          "latest": 0,
-          "latestRecovered":0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": "Kintélé",
-          "count": 3,
-          "recovered": 0,
-          "deaths":0,
-          "latest": 0,
-          "latestRecovered":0,
-          "latestDeaths": 0,
-          "cities": []
-        },
-        {
-          "name": " ",
-          "count": 0,
-          "recovered": 0,
-          "deaths":0,
-          "latest": 0,
-          "latestRecovered":0,
-          "latestDeaths": 0,
-          "cities": []
-        }
-      ]
+      "cities": []
     },
     {
       "name": "Bouenza",
@@ -250,10 +57,10 @@
     },
     {
       "name": "Kouilou",
-      "count": 12,
+      "count": 13,
       "recovered": 6,
       "deaths": 0,
-      "latest": 0,
+      "latest": 1,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -273,6 +80,28 @@
     {
       "name": "Cuvette-Ouest",
       "count": 3,
+      "recovered": 0,
+      "deaths": 0,
+      "latest": 0,
+      "latestRecovered": 0,
+      "latestDeaths": 0,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Niari",
+      "count": 1,
+      "recovered": 0,
+      "deaths": 0,
+      "latest": 1,
+      "latestRecovered": 0,
+      "latestDeaths": 0,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Lékoumou",
+      "count": 1,
       "recovered": 0,
       "deaths": 0,
       "latest": 0,
