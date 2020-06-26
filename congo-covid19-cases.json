@@ -109,17 +109,6 @@
       "latestDeaths": 0,
       "cities": [
       ]
-    },
-    {
-      "name": "Non localisés",
-      "count": 55,
-      "recovered": 8,
-      "deaths": 0,
-      "latest": 0,
-      "latestRecovered": 0,
-      "latestDeaths": 0,
-      "cities": [
-      ]
-    }
+    } 
   ]
 }
