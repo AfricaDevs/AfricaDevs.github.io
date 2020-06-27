@@ -1,26 +1,26 @@
 {
-  "date": "24-Juin-2020",
+  "date": "25-Juin-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
-  "latest_cases":"48h",
+  "latest_cases":"24h",
   "data": [
     {
       "name": "Brazzaville",
       "cities": [],
-      "count": 722,
-      "recovered": 278,
-      "deaths": 18,
-      "latest": 29,
-      "latestRecovered": 1,
-      "latestDeaths": 1
+      "count": 742,
+      "recovered": 283,
+      "deaths": 19,
+      "latest": 20,
+      "latestRecovered": 6,
+      "latestDeaths": 2
     },
     {
       "name": "Pointe-Noire",
       "count": 447,
-      "recovered": 178,
-      "deaths": 19,
-      "latest": 32,
-      "latestRecovered": 4,
-      "latestDeaths": 0,
+      "recovered": 177,
+      "deaths": 20,
+      "latest": 0,
+      "latestRecovered": 3,
+      "latestDeaths": 1,
       "cities": []
     },
     {
