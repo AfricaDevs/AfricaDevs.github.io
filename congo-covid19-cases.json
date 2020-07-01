@@ -1,31 +1,31 @@
 {
-  "date": "25-Juin-2020",
+  "date": "27-Juin-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
   "latest_cases":"24h",
   "data": [
     {
       "name": "Brazzaville",
       "cities": [],
-      "count": 742,
+      "count": 806,
       "recovered": 283,
-      "deaths": 19,
-      "latest": 20,
-      "latestRecovered": 6,
-      "latestDeaths": 2
+      "deaths": 20,
+      "latest": 44,
+      "latestRecovered": 0,
+      "latestDeaths": 1
     },
     {
       "name": "Pointe-Noire",
-      "count": 447,
-      "recovered": 177,
+      "count": 486,
+      "recovered": 190,
       "deaths": 20,
       "latest": 0,
-      "latestRecovered": 3,
-      "latestDeaths": 1,
+      "latestRecovered": 13,
+      "latestDeaths": 0,
       "cities": []
     },
     {
       "name": "Pool",
-      "count": 5,
+      "count": 6,
       "recovered": 5,
       "deaths": 0,
       "latest": 0,
@@ -49,7 +49,7 @@
       "count": 3,
       "recovered": 1,
       "deaths": 0,
-      "latest": 2,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -60,7 +60,7 @@
       "count": 13,
       "recovered": 6,
       "deaths": 0,
-      "latest": 1,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -90,7 +90,7 @@
     },
     {
       "name": "Niari",
-      "count": 1,
+      "count": 2,
       "recovered": 0,
       "deaths": 0,
       "latest": 1,
