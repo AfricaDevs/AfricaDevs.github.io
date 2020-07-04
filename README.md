@@ -1,6 +1,8 @@
 # PROJECT -> [APP-SANTE-AFRIQUE-VS-COVID19-TOA](https://github.com/AfricaDevs/APP-SANTE-AFRIQUE-VS-COVID19-TOA)
 
-**Chercheurs, médecins, scientifiques et designers ont créé cette application rien que pour TOÂ « toi » pour promouvoir les bonnes pratiques pour faire face à la pandémie de Covid-19 en Afrique.**
+:uk: **Researchers, doctors, scientists and designers have created this application just for TOÂ « you » in order to promote Best Practices for dealing with the Covid-19 pandemic in Africa.**
+
+:fr: **Chercheurs, médecins, scientifiques et designers ont créé cette application rien que pour TOÂ « toi » pour promouvoir les bonnes pratiques pour faire face à la pandémie de Covid-19 en Afrique.**
 
 ## Contributeurs
 
