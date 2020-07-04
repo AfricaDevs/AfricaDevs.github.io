@@ -1,31 +1,193 @@
 {
-  "date": "27-Juin-2020",
+  "date": "30-Juin-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
-  "latest_cases":"48h",
+  "latest_cases":"24h",
   "data": [
     {
       "name": "Brazzaville",
-      "cities": [],
-      "count": 806,
+      "cities": [
+      	{
+          "name": "Bacongo",
+          "count": 42,
+          "recovered": 9,
+          "deaths": 1,
+          "latest": 3,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Djiri",
+          "count":102,
+          "recovered": 34,
+          "deaths": 1,
+          "latest": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Madibou",
+          "count": 27,
+          "recovered": 11,
+          "deaths": 1,
+          "latest": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Makélékélé",
+          "count": 68,
+          "recovered": 26,
+          "deaths": 0,
+          "latest": 3,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Mfilou",
+          "count": 55,
+          "recovered": 11,
+          "deaths": 0,
+          "latest": 2,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Moungali",
+          "count": 176,
+          "recovered": 37,
+          "deaths": 1,
+          "latest": 9,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Ouenze",
+          "count": 117,
+          "recovered": 41,
+          "deaths": 5,
+          "latest": 6,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Poto-Poto",
+          "count": 84,
+          "recovered": 24,
+          "deaths": 1,
+          "latest": 4,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Talangai",
+          "count": 216,
+          "recovered": 90,
+          "deaths": 10,
+          "latest": 1,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        }
+    ],
+      "count": 887,
       "recovered": 283,
       "deaths": 20,
-      "latest": 44,
+      "latest": 30,
       "latestRecovered": 0,
-      "latestDeaths": 1
+      "latestDeaths": 0
     },
     {
       "name": "Pointe-Noire",
-      "count": 486,
-      "recovered": 190,
-      "deaths": 20,
-      "latest": 0,
-      "latestRecovered": 13,
-      "latestDeaths": 0,
-      "cities": []
+      "count": 518,
+      "recovered": 202,
+      "deaths": 21,
+      "latest": 12,
+      "latestRecovered": 12,
+      "latestDeaths": 1,
+      "cities": [
+      	{
+          "name": "Loandjili",
+          "count": 90,
+          "recovered": 35,
+          "deaths": 3,
+          "latest": 4,
+          "latestRecovered": 1,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Lumumba",
+          "count": 127,
+          "recovered": 50,
+          "deaths": 7,
+          "latest": 7,
+          "latestRecovered": 3,
+          "latestDeaths": 1,
+          "cities": []
+        },
+        {
+          "name": "Mongo-Mpoukou",
+          "count": 123,
+          "recovered": 43,
+          "deaths":5,
+          "latest":9,
+          "latestRecovered":0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Mvoumvou",
+          "count": 24,
+          "recovered": 9,
+          "deaths":2,
+          "latest":2,
+          "latestRecovered":1,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Ngoyo",
+          "count": 68,
+          "recovered": 31,
+          "deaths": 1,
+          "latest": 1,
+          "latestRecovered": 3,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Tie-Tie",
+          "count": 45,
+          "recovered": 15,
+          "deaths": 2,
+          "latest": 1,
+          "latestRecovered":2,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Tchiamba Nzassi",
+          "count": 41,
+          "recovered": 19,
+          "deaths": 1,
+          "latest": 8,
+          "latestRecovered":1,
+          "latestDeaths": 0,
+          "cities": []
+        }
+    ]
     },
     {
       "name": "Pool",
-      "count": 6,
+      "count": 7,
       "recovered": 5,
       "deaths": 0,
       "latest": 0,
@@ -64,6 +226,26 @@
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
+      	{
+          "name": "Hinda-Loango",
+          "count": 11,
+          "recovered": 5,
+          "deaths": 0,
+          "latest": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        },
+        {
+          "name": "Madingo Kayes",
+          "count": 2,
+          "recovered": 0,
+          "deaths": 0,
+          "latest": 0,
+          "latestRecovered": 0,
+          "latestDeaths": 0,
+          "cities": []
+        }
       ]
     },
     {
@@ -93,7 +275,7 @@
       "count": 2,
       "recovered": 0,
       "deaths": 0,
-      "latest": 1,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
