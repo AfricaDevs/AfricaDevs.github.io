@@ -1,7 +1,7 @@
 {
-  "date": "09-Juil-2020",
+  "date": "10-Juil-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
-  "latest_cases":"48h",
+  "latest_cases":"24h",
   "data": [
     {
       "name": "Brazzaville",
@@ -97,21 +97,21 @@
           "cities": []
         }
     ],
-      "count": 1235,
-      "recovered": 324,
+      "count": 1395,
+      "recovered": 337,
       "deaths": 24,
-      "latest": 86,
-      "latestRecovered": 39,
+      "latest": 85,
+      "latestRecovered": 0,
       "latestDeaths": 0
     },
     {
       "name": "Pointe-Noire",
-      "count": 721,
-      "recovered": 249,
+      "count": 752,
+      "recovered": 262,
       "deaths": 22,
-      "latest": 102,
-      "latestRecovered": 22,
-      "latestDeaths": 1,
+      "latest": 31,
+      "latestRecovered": 13,
+      "latestDeaths": 0,
       "cities": [
       	{
           "name": "Loandjili",
@@ -187,8 +187,8 @@
     },
     {
       "name": "Pool",
-      "count": 9,
-      "recovered": 5,
+      "count": 12,
+      "recovered": 3,
       "deaths": 0,
       "latest": 0,
       "latestRecovered": 0,
