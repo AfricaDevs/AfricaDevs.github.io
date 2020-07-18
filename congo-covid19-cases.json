@@ -1,5 +1,5 @@
 {
-  "date": "10-Juil-2020",
+  "date": "16-Juil-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
   "latest_cases":"24h",
   "data": [
@@ -100,7 +100,7 @@
       "count": 1395,
       "recovered": 337,
       "deaths": 24,
-      "latest": 85,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0
     },
@@ -109,8 +109,8 @@
       "count": 752,
       "recovered": 262,
       "deaths": 22,
-      "latest": 31,
-      "latestRecovered": 13,
+      "latest": 0,
+      "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
       	{
@@ -222,8 +222,8 @@
       "count": 29,
       "recovered": 9,
       "deaths": 0,
-      "latest": 11,
-      "latestRecovered": 3,
+      "latest": 0,
+      "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
       	{
@@ -275,7 +275,7 @@
       "count": 13,
       "recovered": 0,
       "deaths": 0,
-      "latest": 8,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -284,11 +284,22 @@
     {
       "name": "Lékoumou",
       "count": 1,
-      "recovered": 0,
-      "deaths": 0,
+      "recovered": 11,
+      "deaths": 2,
       "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
+      "cities": [
+      ]
+    },
+    {
+      "name": "Non localisés",
+      "count": 411,
+      "recovered": 0,
+      "deaths": 0,
+      "latest": 411,
+      "latestRecovered": 0,
+      "latestDeaths": 2,
       "cities": [
       ]
     } 
