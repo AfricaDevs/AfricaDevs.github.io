@@ -1,7 +1,7 @@
 {
-  "date": "22-Juil-2020",
+  "date": "03-Août-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
-  "latest_cases":"24h",
+  "latest_cases":"72h",
   "data": [
     {
       "name": "Brazzaville",
@@ -97,19 +97,19 @@
           "cities": []
         }
     ],
-      "count": 1985,
-      "recovered": 358,
-      "deaths": 25,
-      "latest": 78,
+      "count": 2276,
+      "recovered": 899,
+      "deaths": 27,
+      "latest": 63,
       "latestRecovered": 0,
       "latestDeaths": 0
     },
     {
       "name": "Pointe-Noire",
-      "count": 378,
-      "recovered": 262,
-      "deaths": 25,
-      "latest": 26,
+      "count": 1068,
+      "recovered": 664,
+      "deaths": 27,
+      "latest": 37,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -187,8 +187,8 @@
     },
     {
       "name": "Pool",
-      "count": 16,
-      "recovered": 5,
+      "count": 18,
+      "recovered": 11,
       "deaths": 0,
       "latest": 0,
       "latestRecovered": 0,
@@ -197,10 +197,10 @@
     },
     {
       "name": "Bouenza",
-      "count": 13,
+      "count": 19,
       "recovered": 4,
       "deaths": 1,
-      "latest": 0,
+      "latest": 1,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -219,7 +219,7 @@
     },
     {
       "name": "Kouilou",
-      "count": 33,
+      "count": 50,
       "recovered": 9,
       "deaths": 0,
       "latest": 1,
@@ -250,21 +250,21 @@
     },
     {
       "name": "Sangha",
-      "count": 1,
+      "count": 52,
       "recovered": 1,
-      "deaths": 0,
-      "latest": 0,
+      "deaths": 2,
+      "latest": 51,
       "latestRecovered": 0,
-      "latestDeaths": 0,
+      "latestDeaths": 2,
       "cities": [
       ]
     },
     {
       "name": "Cuvette-Ouest",
-      "count": 5,
+      "count": 12,
       "recovered": 0,
       "deaths": 0,
-      "latest": 0,
+      "latest": 6,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -272,9 +272,9 @@
     },
     {
       "name": "Niari",
-      "count": 19,
+      "count": 40,
       "recovered": 0,
-      "deaths": 0,
+      "deaths": 1,
       "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
@@ -283,9 +283,9 @@
     },
     {
       "name": "Lékoumou",
-      "count": 1,
+      "count": 6,
       "recovered": 0,
-      "deaths": 2,
+      "deaths": 0,
       "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
