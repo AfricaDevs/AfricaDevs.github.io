@@ -97,19 +97,19 @@
           "cities": []
         }
     ],
-      "count": 2572,
-      "recovered": 899,
-      "deaths": 27,
-      "latest": 63,
+      "count": 3177,
+      "recovered": 2580,
+      "deaths": 53,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0
     },
     {
       "name": "Pointe-Noire",
-      "count": 1118,
-      "recovered": 686,
-      "deaths": 28,
-      "latest": 37,
+      "count": 1297,
+      "recovered": 1155,
+      "deaths": 26,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -188,7 +188,7 @@
     {
       "name": "Pool",
       "count": 18,
-      "recovered": 7,
+      "recovered": 17,
       "deaths": 0,
       "latest": 0,
       "latestRecovered": 0,
@@ -198,9 +198,9 @@
     {
       "name": "Bouenza",
       "count": 30,
-      "recovered": 4,
+      "recovered": 18,
       "deaths": 1,
-      "latest": 1,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -208,8 +208,8 @@
     },
     {
       "name": "Cuvette",
-      "count": 36,
-      "recovered": 1,
+      "count": 51,
+      "recovered": 5,
       "deaths": 0,
       "latest": 0,
       "latestRecovered": 0,
@@ -219,10 +219,10 @@
     },
     {
       "name": "Kouilou",
-      "count": 56,
-      "recovered": 9,
-      "deaths": 0,
-      "latest": 1,
+      "count": 58,
+      "recovered": 50,
+      "deaths": 1,
+      "latest": 0,
       "latestRecovered": 0,
       "latestDeaths": 0,
       "cities": [
@@ -250,19 +250,19 @@
     },
     {
       "name": "Sangha",
-      "count": 80,
-      "recovered": 1,
-      "deaths": 2,
-      "latest": 51,
+      "count": 122,
+      "recovered": 2,
+      "deaths": 0,
+      "latest": 01,
       "latestRecovered": 0,
-      "latestDeaths": 2,
+      "latestDeaths": 0,
       "cities": [
       ]
     },
     {
       "name": "Cuvette-Ouest",
-      "count": 12,
-      "recovered": 0,
+      "count": 55,
+      "recovered": 10,
       "deaths": 0,
       "latest": 6,
       "latestRecovered": 0,
@@ -272,8 +272,8 @@
     },
     {
       "name": "Niari",
-      "count": 47,
-      "recovered": 0,
+      "count": 49,
+      "recovered": 39,
       "deaths": 1,
       "latest": 0,
       "latestRecovered": 0,
@@ -284,7 +284,7 @@
     {
       "name": "Lékoumou",
       "count": 10,
-      "recovered": 0,
+      "recovered": 6,
       "deaths": 0,
       "latest": 0,
       "latestRecovered": 0,
