@@ -1,5 +1,5 @@
 {
-  "date": "04-Sept-2020",
+  "date": "21-Sept-2020",
   "pdf":"https://raw.githubusercontent.com/AfricaDevs/AfricaDevs.github.io/master/congo-covid19-pdf-statements/covid19-congo-report.pdf",
   "latest_cases":"72h",
   "data": [
@@ -98,7 +98,7 @@
         }
     ],
       "count": 3255,
-      "recovered": 2580,
+      "recovered": 2581,
       "deaths": 53,
       "latest": 0,
       "latestRecovered": 0,
@@ -107,7 +107,7 @@
     {
       "name": "Pointe-Noire",
       "count": 1340,
-      "recovered": 1155,
+      "recovered": 1185,
       "deaths": 26,
       "latest": 0,
       "latestRecovered": 0,
