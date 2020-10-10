@@ -97,7 +97,7 @@
           "cities": []
         }
     ],
-      "count": 3177,
+      "count": 3255,
       "recovered": 2580,
       "deaths": 53,
       "latest": 0,
@@ -106,7 +106,7 @@
     },
     {
       "name": "Pointe-Noire",
-      "count": 1297,
+      "count": 1340,
       "recovered": 1155,
       "deaths": 26,
       "latest": 0,
